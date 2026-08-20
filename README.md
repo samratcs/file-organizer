@@ -11,6 +11,16 @@ A simple Python automation tool that organizes files into folders based on their
 - Organizes archives
 - Places unknown file types into an `Others` folder
 
+## Supported File Types
+
+| Category | Extensions |
+|---|---|
+| Images | JPG, JPEG, PNG, GIF, WEBP |
+| Documents | PDF, DOC, DOCX, TXT, XLSX, CSV |
+| Videos | MP4, MKV, AVI, MOV |
+| Audio | MP3, WAV, FLAC |
+| Archives | ZIP, RAR, 7Z |
+
 ## Project Structure
 
 ```text
@@ -80,3 +90,5 @@ Your current project doesn't need an external package, so `requirements.txt` can
 
 ```text
 # No external dependencies required
+
+# end
