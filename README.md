@@ -43,7 +43,7 @@ Enter the folder you want to organize.
 Example
 
 Before:
-
+```
 Downloads/
 ├── photo.jpg
 ├── report.pdf
@@ -61,6 +61,7 @@ Downloads/
 │   └── movie.mp4
 └── Audio/
     └── song.mp3
+```
 
 ## Technologies
 - Python
