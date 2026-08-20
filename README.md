@@ -92,3 +92,4 @@ Your current project doesn't need an external package, so `requirements.txt` can
 # No external dependencies required
 ```
 # end
+more details will be added shortly
