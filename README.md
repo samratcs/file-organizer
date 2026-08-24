@@ -59,9 +59,9 @@ Downloads/
 ├── report.pdf
 ├── movie.mp4
 └── song.mp3
-
+```
 After:
-
+```
 Downloads/
 ├── Images/
 │   └── photo.jpg
@@ -85,11 +85,10 @@ Downloads/
 # Part 7 — Add requirements
 
 
-Your current project doesn't need an external package, so `requirements.txt` can contain:
+Currently this project doesn't need an external package, so `requirements.txt` can contain:
 
 
 ```text
 # No external dependencies required
 ```
 # end
-more details will be added shortly
