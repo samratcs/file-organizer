@@ -74,7 +74,7 @@ Downloads/
 ```
 
 ## Technologies
-- Python
+- Python Version 3
 - pathlib
 - shutil
 
